@@ -1,0 +1,9 @@
+export const LOGIN_INIT = "SESSION/LOGIN_INIT";
+export const LOGIN = "SESSION/LOGIN";
+export const LOGOUT = "SESSION/LOGOUT";
+export const LOGOUT_INIT = "SESSION/LOGOUT_INIT";
+export const SIGNUP_INIT = "SESSION/SIGNUP_INIT";
+export const SIGNUP = "SESSION/SIGNUP";
+export const REFRESH_INIT = "SESSION/REFRESH_INIT";
+export const REFRESH = "SESSION/REFRESH";
+export const SIGNUP_ERROR = "SESSION/SIGNUP_ERROR";
