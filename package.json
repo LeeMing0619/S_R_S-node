@@ -12,7 +12,7 @@
     "@types/webfontloader": "^1.6.29",
     "connected-react-router": "^6.5.2",
     "history": "^4.9.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "normalize.css": "^8.0.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
